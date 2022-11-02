@@ -30,3 +30,13 @@ function exercicio3() {
 exercicio3();
 
 // Quarta Tarefa
+
+function exercicio4() {
+    let usuarioAutenticado = true;
+    if (usuarioAutenticado) {
+        console.log("Seja bem-vindo!");
+    }
+}
+exercicio4();
+
+// Quinta Tarefa
