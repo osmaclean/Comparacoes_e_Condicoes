@@ -51,3 +51,15 @@ function exercicio5() {
 exercicio5();
 
 // Sexta Tarefa 
+
+function exercicio6() {
+    let produto = "maçã";
+    let quantidadeDeProduto = 2;
+    let quantidadeFaltando = 5 - quantidadeDeProduto;
+    if (produto && quantidadeDeProduto > 5 || produto && quantidadeDeProduto == 5) {
+        console.log(`Você recebeu uma promoção, o valor do produto será R$5,00`);
+    } else {
+        console.log(`Se você adicionar mais ${quantidadeFaltando}, o valor sairá por R$5,00`);
+    }
+}
+exercicio6();
