@@ -63,3 +63,7 @@ function exercicio6() {
     }
 }
 exercicio6();
+
+alert(`Page made by: Lucas Maclean.`);
+alert(`Página de aprendizado e execução de Comparações e Condições.`);
+alert(`Tudo dentro do "Console"`);
