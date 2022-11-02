@@ -40,3 +40,14 @@ function exercicio4() {
 exercicio4();
 
 // Quinta Tarefa
+
+function exercicio5() {
+    let usuario = "Ana"
+    let autenticado = false;
+    if (autenticado !== usuario) {
+        console.log(`Olá ${usuario} você está autenticado`);
+    }
+}
+exercicio5();
+
+// Sexta Tarefa 
